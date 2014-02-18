@@ -1,34 +1,34 @@
 markdown: rdiscount
-#permalink: /:title/
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:title/
+#permalink: /:categories/:year/:month/:day/:title 
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+#exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 
-title : freebug's page
+#title : freebug's page
 
-tagline: i8g, i freebug
+#tagline: i8g, i freebug
 
 url: http://i8g.org
-production_url : http://i8g.org
+#production_url : http://i8g.org
 
 name: i8g.org
 author: freebug
-qq: 
+#qq: 
 email: cnfreebug@gmail.com
-duoshuo: 
-beian: 
-cnzz: 
-weibo: 
+#duoshuo: 
+#beian: 
+#cnzz: 
+#weibo: 
 github: freebug
 pygments: true
 
 
 ##
-  archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
-  atom_path : /atom.xml
-  rss_path : /rss.xml
+#  archive_path: /archive.html
+#  categories_path : /categories.html
+#  tags_path : /tags.html
+#  atom_path : /atom.xml
+#  rss_path : /rss.xml
   
   
 safe: true
