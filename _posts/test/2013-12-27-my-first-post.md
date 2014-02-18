@@ -4,7 +4,7 @@ category : test
 tagline: "Supporting tagline"
 tags : [intro, first, hello word, tutorial]
 ---
-{% include JB/setup %}
+
 
 This is my fist post!
 
